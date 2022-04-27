@@ -1,9 +1,24 @@
 {
+  "name": "storybook-tutorial",
+  "description": "",
+  "version": "1.0.0",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "yarn start-storybook -p 6006",
     "build-storybook": "yarn build-storybook"
   },
-  "devDependencies": {
+    "devDependencies": {
     "chromatic": "^6.5.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtandler96/storybook-tutorial"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monatheoctocat/my_package/issues"
+  },
+  "homepage": "https://github.com/monatheoctocat/my_package"
 }
