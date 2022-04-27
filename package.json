@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "storybook": "yarn start-storybook -p 6006",
+    "build-storybook": "yarn build-storybook"
   },
   "devDependencies": {
     "chromatic": "^6.5.4"
